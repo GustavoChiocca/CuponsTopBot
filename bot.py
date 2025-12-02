@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = 8345436392:AAGWujYDS4nBJ74gYsKmq85Jpb4SxS7BdbA
+TOKEN = "8345436392:AAGWujYDS4nBJ74gYsKmq85Jpb4SxS7BdbA"
 
 
 # -------------------------------
